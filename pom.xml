@@ -36,6 +36,11 @@
 			<groupId>javax.mail</groupId>
 			<artifactId>javax.mail-api</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>com.google.apis</groupId>
+			<artifactId>google-api-services-gmail</artifactId>
+			<version>v1-rev109-1.25.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
